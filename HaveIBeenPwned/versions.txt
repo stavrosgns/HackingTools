@@ -1,0 +1,6 @@
+Version v1.1:
+  1. The exception that is rizen after the email account or passwd has not been pwned due to luck of data.
+
+Version v1.2:
+  1. The script print information that is necessary to the end user, not just all of the information the API provides.
+  2. It is added as an option, the user to provide a list of email accounts or passwords.
